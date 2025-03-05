@@ -39,34 +39,34 @@ Si QBiome permet la gestion complète d'un projet, certain préfèreront des ver
 <a href="lien_vers_ton_fichier.zip" style="
   display: inline-block;
   padding: 10px 20px;
-  background-color: #839e17;
+  background-color: #a0985c;
   color: white;
   text-decoration: none;
   border-radius: 5px;
   font-weight: bold;">
-  QBiome 1.0.0 Mycena crocata - Version Faune
+  QBiome 1.0.0 - Faune
 </a>
 
 <a href="lien_vers_ton_fichier.zip" style="
   display: inline-block;
   padding: 10px 20px;
-  background-color: #839e17;
+  background-color: #a0985c;
   color: white;
   text-decoration: none;
   border-radius: 5px;
   font-weight: bold;">
-  QBiome 1.0.0 Mycena crocata - Version Flore
+  QBiome 1.0.0 - Flore
 </a>
 
 <a href="lien_vers_ton_fichier.zip" style="
   display: inline-block;
   padding: 10px 20px;
-  background-color: #839e17;
+  background-color: #a0985c;
   color: white;
   text-decoration: none;
   border-radius: 5px;
   font-weight: bold;">
-  QBiome 1.0.0 Mycena crocata - Version Fonge
+  QBiome 1.0.0 - Fonge
 </a>
 
 <br><br>
