@@ -3,7 +3,7 @@ title: QBiome - Accueil
 layout: default
 ---
 
-![Bannière](assets/banniere.png)
+![Bannière](assets/Banniere.png)
 
 QBiome est une application open-source dédiée à la saisie de données naturalistes.
 
