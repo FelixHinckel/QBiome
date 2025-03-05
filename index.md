@@ -99,7 +99,7 @@ Pourquoi soutenir QBiome ?
 
 💡 Si QBiome vous aide dans votre travail, pensez à soutenir son développement !
 
-<a href="lien_vers_ton_fichier.zip" style="
+<a href="https://github.com/sponsors/FelixHinckel" style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #0d078e;
