@@ -9,7 +9,7 @@ layout: default
 QBiome est une application **gratuite et open-source** permettant la saisie et la gestion des données naturalistes. Conçue pour s’intégrer parfaitement à QGIS et QField, elle offre une solution clé en main pour les chercheurs, écologues et passionnés de biodiversité.
 
 
-<h2 style="color:#839e17;"> QBiome 1.0.0 Mycena Crocata</h2>
+<h2 style="color:#a0985c;"> QBiome 1.0.0 Mycena Crocata</h2>
 
 Cette toute première version propose une gestion de projet complète, intégrant la faune, la flore et la fonge en un seul outil. 
 - Protocoles d'observation et d'écoute pour la faune
@@ -32,7 +32,7 @@ Cette toute première version propose une gestion de projet complète, intégran
   Télécharger QBiome 1.0.0 Mycena crocata
 </a>
 
-<h2 style="color:#839e17;">  Versions spécifiques</h2>
+<h2 style="color:#a0985c;">  Versions spécifiques</h2>
 
 Si QBiome permet la gestion complète d'un projet, certain préfèreront des version plus légères, centrées sur leur coeur d'activité :
 
