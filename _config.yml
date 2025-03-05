@@ -1,1 +1,8 @@
-theme: minima
+remote_theme: jekyll/minima@3cdd14d
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+minima:
+  skin: dark
