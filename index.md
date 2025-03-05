@@ -5,7 +5,7 @@ layout: default
 
 ![Bannière](assets/Banniere.png)
 
-<h1 style="color:#839e17;"> Une application dédiée aux données naturalistes</h1>
+<h1 style="color:#a0985c;"> Une application dédiée aux données naturalistes</h1>
 QBiome est une application **gratuite et open-source** permettant la saisie et la gestion des données naturalistes. Conçue pour s’intégrer parfaitement à QGIS et QField, elle offre une solution clé en main pour les chercheurs, écologues et passionnés de biodiversité.
 
 
@@ -69,9 +69,9 @@ Si QBiome permet la gestion complète d'un projet, certain préfèreront des ver
   QBiome 1.0.0 Mycena crocata - Version Fonge
 </a>
 
---
+<br><br>
 
-<h1 style="color:#839e17;">  Participez à l'aventure QBiome</h1>
+<h1 style="color:#a0985c;">  Participez à l'aventure QBiome</h1>
 
 QBiome est un projet vivant, destiné à s'améliorer au fil du temps. Si vous avez des questions, des remarques, ou simplement envie d'échanger autour de l'utilisation de l'outil, rejoignez nous sur le **serveur Discord** dédié à l'application. C'est l'endroit idéal pour faire remonter ses idées et échanger les bonnes pratiques avec les autres utilisateurs!
 
@@ -86,9 +86,9 @@ QBiome est un projet vivant, destiné à s'améliorer au fil du temps. Si vous a
   QBiome sur Discord
 </a>
 
-  
+<br><br>
 
-<h1 style="color:#839e17;">  💚 Soutenez le développement de QBiome</h1>
+<h1 style="color:#a0985c;">  💚 Soutenez le développement de QBiome</h1>
 
 QBiome est un projet open-source développé bénévolement par Ageona Cartographie. Chaque mise à jour et amélioration demande du temps et des ressources, et votre soutien est essentiel pour assurer sa continuité.
 
