@@ -69,6 +69,8 @@ Si QBiome permet la gestion complète d'un projet, certain préfèreront des ver
   QBiome 1.0.0 Mycena crocata - Version Fonge
 </a>
 
+--
+
 <h1 style="color:#839e17;">  Participez à l'aventure QBiome</h1>
 
 QBiome est un projet vivant, destiné à s'améliorer au fil du temps. Si vous avez des questions, des remarques, ou simplement envie d'échanger autour de l'utilisation de l'outil, rejoignez nous sur le **serveur Discord** dédié à l'application. C'est l'endroit idéal pour faire remonter ses idées et échanger les bonnes pratiques avec les autres utilisateurs!
@@ -83,6 +85,8 @@ QBiome est un projet vivant, destiné à s'améliorer au fil du temps. Si vous a
   font-weight: bold;">
   QBiome sur Discord
 </a>
+
+  
 
 <h1 style="color:#839e17;">  💚 Soutenez le développement de QBiome</h1>
 
