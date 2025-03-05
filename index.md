@@ -9,7 +9,17 @@ QBiome est une application open-source dédiée à la saisie de données natural
 
 ## Téléchargez QBiome
 
-- [📥 Version Globale](#)  
+<a href="lien_vers_ton_fichier.zip" style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;">
+  QBiome 1.0.0 Mycena crocata
+</a>
+
 - [📥 Version Flore](#)  
 - [📥 Version Faune](#)  
 - [📥 Version Fonge](#)  
