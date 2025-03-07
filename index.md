@@ -9,7 +9,7 @@ layout: default
 QBiome est une application **gratuite et open-source** permettant la saisie et la gestion des données naturalistes. Conçue pour s’intégrer parfaitement à QGIS et QField, elle offre une solution clé en main pour les chercheurs, écologues et passionnés de biodiversité.
 
 
-<h2 style="color:#a0985c;"> QBiome 1.0.0 Mycena Crocata</h2>
+<h2 style="color:#a0985c;"> QBiome 1.0.1 Mycena Crocata</h2>
 
 Cette toute première version propose une gestion de projet complète, intégrant la faune, la flore et la fonge en un seul outil. 
 - Protocoles d'observation et d'écoute pour la faune
@@ -29,8 +29,13 @@ Cette toute première version propose une gestion de projet complète, intégran
   text-decoration: none;
   border-radius: 5px;
   font-weight: bold;">
-  Télécharger QBiome 1.0.0 Mycena crocata
+  Télécharger QBiome 1.0.1 Mycena crocata
 </a>
+
+Ce projet peut être ouvert sur QGis, pour ajouter des couches projet, ou sur QField, pour commencer à saisir des observations.
+Attention, QBiome 1.1 fonctionne avec la dernière version de QField, 3.5 Fangorn! Pensez à faire la mise à jour sur vos appareils avant de partir sur le terrain!
+
+<br>
 
 <h2 style="color:#a0985c;">  Versions spécifiques</h2>
 
@@ -44,7 +49,7 @@ Si QBiome permet la gestion complète d'un projet, certain préfèreront des ver
   text-decoration: none;
   border-radius: 5px;
   font-weight: bold;">
-  QBiome 1.0.0 - Faune
+  QBiome 1.0.1 - Faune
 </a>
 
 <a href="lien_vers_ton_fichier.zip" style="
@@ -55,7 +60,7 @@ Si QBiome permet la gestion complète d'un projet, certain préfèreront des ver
   text-decoration: none;
   border-radius: 5px;
   font-weight: bold;">
-  QBiome 1.0.0 - Flore
+  QBiome 1.0.1 - Flore
 </a>
 
 <a href="lien_vers_ton_fichier.zip" style="
@@ -66,7 +71,7 @@ Si QBiome permet la gestion complète d'un projet, certain préfèreront des ver
   text-decoration: none;
   border-radius: 5px;
   font-weight: bold;">
-  QBiome 1.0.0 - Fonge
+  QBiome 1.0.1 - Fonge
 </a>
 
 <br><br>
@@ -75,7 +80,7 @@ Si QBiome permet la gestion complète d'un projet, certain préfèreront des ver
 
 QBiome est un projet vivant, destiné à s'améliorer au fil du temps. Si vous avez des questions, des remarques, ou simplement envie d'échanger autour de l'utilisation de l'outil, rejoignez nous sur le **serveur Discord** dédié à l'application. C'est l'endroit idéal pour faire remonter ses idées et échanger les bonnes pratiques avec les autres utilisateurs!
 
-<a href="lien_vers_ton_fichier.zip" style="
+<a href="https://discord.gg/gsVebySVS8" style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #0d078e;
