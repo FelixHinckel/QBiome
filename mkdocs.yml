@@ -2,8 +2,6 @@ site_name: QBiome
 site_description: Documentation du projet QGIS/QField pour les relevés naturalistes de terrain
 site_author: Félix Hinckel — Ageona Cartographie
 site_url: https://felixhinckel.github.io/QBiome/
-repo_url: https://github.com/FelixHinckel/QBiome
-repo_name: FelixHinckel/QBiome
 
 docs_dir: docs
 use_directory_urls: false
@@ -28,7 +26,6 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.footer
-    - toc.integrate
     - search.highlight
     - search.suggest
     - content.code.copy

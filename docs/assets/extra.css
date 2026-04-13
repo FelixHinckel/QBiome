@@ -1,7 +1,11 @@
-/* Tabs compacts */
+/* Tabs compacts et alignés à gauche */
+.md-tabs__list {
+  justify-content: flex-start;
+}
 .md-tabs__link {
-  font-size: 0.8rem;
-  padding: 0 0.8rem;
+  font-size: 0.75rem;
+  padding: 0 0.7rem;
+  letter-spacing: 0;
 }
 
 /* Palette QBiome */
