@@ -21,9 +21,21 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          pip install mkdocs-material
+      - name: Install system dependencies (WeasyPrint)
+        run: sudo apt-get install -y libpango-1.0-0 libpangoft2-1.0-0 libpangocairo-1.0-0 fonts-freefont-ttf
+
+      - name: Install Python dependencies
+        run: pip install mkdocs-material mkdocs-with-pdf weasyprint
+
+      - name: Build site (génère le site + le PDF)
+        run: mkdocs build
+
+      - name: Sauvegarder le PDF comme artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: QBiome-documentation-pdf
+          path: site/pdf/QBiome_documentation.pdf
+          retention-days: 90
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
