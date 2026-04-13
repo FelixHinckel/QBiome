@@ -6,6 +6,7 @@ repo_url: https://github.com/FelixHinckel/QBiome
 repo_name: FelixHinckel/QBiome
 
 docs_dir: docs
+use_directory_urls: false
 
 theme:
   name: material
