@@ -1,0 +1,43 @@
+/* Palette QBiome */
+:root {
+  --md-primary-fg-color:        #5a7a0a;
+  --md-primary-fg-color--light: #839e17;
+  --md-primary-fg-color--dark:  #3d5407;
+  --md-accent-fg-color:         #a0985c;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #839e17;
+  --md-primary-fg-color--light: #a0c020;
+  --md-primary-fg-color--dark:  #5a7a0a;
+  --md-accent-fg-color:         #c4b97a;
+}
+
+/* Figures centrées */
+figure {
+  margin: 1.5rem auto;
+}
+
+figcaption {
+  font-size: 0.85em;
+  color: var(--md-default-fg-color--light);
+  margin-top: 0.4rem;
+}
+
+/* Icônes inline (height: 1.3em) */
+p img[style*="height: 1.3em"] {
+  vertical-align: middle;
+}
+
+/* Grid CSS – adaptation PDF/print */
+@media print {
+  div[style*="grid-template-columns"] {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  div[style*="grid-template-columns"] figure {
+    flex: 1 1 45%;
+    break-inside: avoid;
+  }
+}
