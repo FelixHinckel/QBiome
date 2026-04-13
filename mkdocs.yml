@@ -33,9 +33,10 @@ theme:
 plugins:
   - search
   - with-pdf:
-      author: Félix Hinckel — Ageona Cartographie
+      author: ""
       copyright: 2026 Ageona Cartographie
-      cover_subtitle: Documentation v1.1.3
+      cover_subtitle: Documentation v1.1
+      toc_title: Sommaire
       output_path: pdf/QBiome_documentation.pdf
       ordered_chapter_level: 2
 

@@ -8,6 +8,14 @@
   letter-spacing: 0;
 }
 
+/* PDF cover — ligne verte QBiome */
+article#doc-cover hr,
+article#doc-cover .hr {
+  background: #839e17 !important;
+  border-color: #839e17 !important;
+  color: #839e17 !important;
+}
+
 /* Palette QBiome */
 :root {
   --md-primary-fg-color:        #5a7a0a;
