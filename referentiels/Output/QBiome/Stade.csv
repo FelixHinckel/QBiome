@@ -1,0 +1,61 @@
+"Groupe";"Stade";"INPN"
+"Avifaune";"Nid";1
+"Avifaune";"Oeuf";9
+"Avifaune";"Juvénile non volant";3
+"Avifaune";"Juvénile volant";3
+"Avifaune";"Immature";4
+"Avifaune";"Adulte";2
+"Amphibiens";"Ponte";9
+"Amphibiens";"Têtard";8
+"Amphibiens";"Juvénile";3
+"Amphibiens";"Adulte";2
+"Araignées";"Oeuf";9
+"Araignées";"Juvénile";3
+"Araignées";"Adulte";2
+"Chiroptères";"Juvénile";3
+"Chiroptères";"Adulte";2
+"Coléoptères";"Oeuf";9
+"Coléoptères";"Larve";6
+"Coléoptères";"Nymphe";13
+"Coléoptères";"Imago";15
+"Crustacés";"Oeuf";9
+"Crustacés";"Juvénile";3
+"Crustacés";"Adulte";2
+"Ephémères";"Oeuf";9
+"Ephémères";"Larve";6
+"Ephémères";"Nymphe";13
+"Ephémères";"Imago";15
+"Lépidoptères";"Oeuf";9
+"Lépidoptères";"Chenille";7
+"Lépidoptères";"Chrysalide";12
+"Lépidoptères";"Emergence";25
+"Lépidoptères";"Imago";15
+"Mammifères";"Juvénile";3
+"Mammifères";"Adulte";2
+"Gastéropodes";"Oeuf";9
+"Gastéropodes";"Juvénile";3
+"Gastéropodes";"Adulte";2
+"Odonates";"Oeuf";9
+"Odonates";"Larve";6
+"Odonates";"Emergence";25
+"Odonates";"Imago";15
+"Odonates";"Exuvie";11
+"Orthoptères";"Oeuf";9
+"Orthoptères";"Larve";6
+"Orthoptères";"Imago";15
+"Poissons";"Oeuf";9
+"Poissons";"Larve";6
+"Poissons";"Juvénile";3
+"Poissons";"Adulte";2
+"Reptiles";"Oeuf";9
+"Reptiles";"Juvénile";3
+"Reptiles";"Adulte";2
+"Reptiles";"Mue";10
+"Autres insectes";"Oeuf";9
+"Autres insectes";"Larve";6
+"Autres insectes";"Juvénile";3
+"Autres insectes";"Nymphe";13
+"Autres insectes";"Imago";15
+"Autre faune";"Oeuf";9
+"Autre faune";"Juvénile";3
+"Autre faune";"Adulte";2

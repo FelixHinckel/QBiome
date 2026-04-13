@@ -1,0 +1,108 @@
+"Groupe";"Comportement";"INPN"
+"Avifaune";"Chant";18
+"Avifaune";"Cri";1
+"Avifaune";"En vol";10
+"Avifaune";"Posé";15
+"Avifaune";"Alimentation";8
+"Avifaune";"Chasse";8
+"Avifaune";"Dortoir";3
+"Avifaune";"Accouplement";19
+"Avifaune";"Nidification";1
+"Avifaune";"Houspillage";1
+"Avifaune";"Mort";1
+"Amphibiens";"Actif";1
+"Amphibiens";"Chant";18
+"Amphibiens";"En ponte";23
+"Amphibiens";"En déplacement";16
+"Amphibiens";"En migration";4
+"Amphibiens";"Accouplement";19
+"Amphibiens";"Mort";1
+"Araignées";"Actif";1
+"Araignées";"Sur toile";5
+"Araignées";"Alimentation";8
+"Araignées";"En ponte";23
+"Araignées";"Chasse";8
+"Araignées";"Accouplement";19
+"Araignées";"Mort";1
+"Chiroptères";"Actif";1
+"Chiroptères";"Transit";16
+"Chiroptères";"En chasse";8
+"Chiroptères";"Gîte";17
+"Chiroptères";"Visuel";1
+"Chiroptères";"Mort";1
+"Coléoptères";"Actif";1
+"Coléoptères";"Trou émergence";1
+"Coléoptères";"Accouplement";19
+"Coléoptères";"Indice de présence";1
+"Coléoptères";"Mort";1
+"Crustacés";"Actif";1
+"Crustacés";"Accouplement";19
+"Crustacés";"Indice de présence";1
+"Crustacés";"Mort";1
+"Ephémères";"Actif";1
+"Ephémères";"Accouplement";19
+"Ephémères";"Indice de présence";1
+"Ephémères";"Mort";1
+"Lépidoptères";"Actif";1
+"Lépidoptères";"Butine";8
+"Lépidoptères";"En ponte";23
+"Lépidoptères";"En vol";10
+"Lépidoptères";"Posé";15
+"Lépidoptères";"Basking";17
+"Lépidoptères";"Accouplement";19
+"Lépidoptères";"En migration";4
+"Lépidoptères";"Mort";1
+"Mammifères";"Actif";1
+"Mammifères";"Accouplement";19
+"Mammifères";"Déplacement";16
+"Mammifères";"Alimentation";8
+"Mammifères";"Chasse";8
+"Mammifères";"Repos";17
+"Mammifères";"Mort";1
+"Mammifères";"Crottes";1
+"Mammifères";"Restes alimentaires";1
+"Mammifères";"Terrier";1
+"Mammifères";"Empreintes";1
+"Mammifères";"Coulée";1
+"Gastéropodes";"Actif";1
+"Gastéropodes";"Alimentation";8
+"Gastéropodes";"Mort";1
+"Odonates";"Actif";1
+"Odonates";"En chasse";8
+"Odonates";"En ponte";23
+"Odonates";"Posé";15
+"Odonates";"En vol";10
+"Odonates";"En migration";4
+"Odonates";"Accouplement";19
+"Odonates";"Mort";1
+"Odonates";"Indice de présence";1
+"Orthoptères";"Actif";1
+"Orthoptères";"Stridule";18
+"Orthoptères";"En ponte";23
+"Orthoptères";"Alimentation";8
+"Orthoptères";"Déplacement";16
+"Orthoptères";"En migration";4
+"Orthoptères";"Accouplement";19
+"Orthoptères";"Mort";1
+"Poissons";"Actif";1
+"Poissons";"En ponte";23
+"Poissons";"Mort";1
+"Reptiles";"Actif";1
+"Reptiles";"Sous plaque";17
+"Reptiles";"Thermorégulation";17
+"Reptiles";"En fuite";16
+"Reptiles";"Alimentation";8
+"Reptiles";"Gîte";17
+"Reptiles";"Déplacement";16
+"Reptiles";"Accouplement";19
+"Reptiles";"En chasse";8
+"Reptiles";"Mort";1
+"Reptiles";"Indice de présence";1
+"Autres insectes";"Actif";1
+"Autres insectes";"Accouplement";19
+"Autres insectes";"Indice de présence";1
+"Autres insectes";"Mort";1
+"Autre faune";"Actif";1
+"Autre faune";"Accouplement";19
+"Autre faune";"Indice de présence";1
+"Autre faune";"Mort";1
