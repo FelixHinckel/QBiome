@@ -51,12 +51,15 @@ markdown_extensions:
 
 nav:
   - Accueil: index.md
-  - Accéder au projet: 02_acceder_au_projet.md
-  - Préparer son terrain: 03_preparer_son_terrain.md
-  - Utilisation de QField: 04_utilisation_qfield.md
-  - Saisie opportuniste: 05_saisie_opportuniste.md
-  - Protocoles faune: 06_protocoles_faune.md
-  - Relevés phytosociologiques: 07_releves_phytosociologiques.md
-  - Cartographie d'habitats: 08_cartographie_habitats.md
-  - Zones humides et pédologie: 09_zones_humides_pedologie.md
-  - Traitement des données: 10_traitement_donnees.md
+  - Mise en place:
+      - Accéder au projet: 02_acceder_au_projet.md
+      - Préparer son terrain: 03_preparer_son_terrain.md
+      - Utilisation de QField: 04_utilisation_qfield.md
+  - Saisie terrain:
+      - Saisie opportuniste: 05_saisie_opportuniste.md
+      - Protocoles faune: 06_protocoles_faune.md
+      - Relevés phytosociologiques: 07_releves_phytosociologiques.md
+      - Cartographie d'habitats: 08_cartographie_habitats.md
+      - Zones humides et pédologie: 09_zones_humides_pedologie.md
+  - Traitement des données:
+      - Traitement des données: 10_traitement_donnees.md
