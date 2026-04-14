@@ -1,0 +1,25 @@
+Merci beaucoup pour votre téléchargement!
+
+QBiome est un projet gratuit et OpenSource développé par Félix Hinckel. Chacun est libre de l'utiliser, de le modifier et de la partager.
+
+Pour avoir accès aux différentes versions de QBiome, c'est ici :
+https://ageona-cartographie.fr/qbiome-telechargement/
+
+Pour accéder à la documentation mise à jour, c'est ici :
+https://felixhinckel.github.io/QBiome/
+
+Pour accéder au repo GitHub, c'est ici :
+https://github.com/FelixHinckel/QBiome
+
+Pour accéder à la communauté QBiome sur Discord, c'est ici :
+https://discord.com/invite/gsVebySVS8
+
+Pour faire un don et participer au développement de QBiome, c'est ici :
+https://ko-fi.com/felixhinckel
+
+Pour me contacter directement, c'est ici :
+felix.hinckel@ageona-cartographie.fr
+
+Encore merci et bon terrain!
+
+Félix
